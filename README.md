@@ -10,7 +10,7 @@ Bachelor of Science in Information Technology
 
 
 ## Certifications
-- SQL and Relational Databases 101: [View Certificate]([PASTE_YOUR_CERTIFICATE_LINK_HERE](https://courses.cognitiveclass.ai/certificates/88558b0527ec41b3813d6c236d020736))
+- SQL and Relational Databases 101: [View Certificate](https://courses.cognitiveclass.ai/certificates/88558b0527ec41b3813d6c236d020736)
 
 ## Skillsets
 - SQL
