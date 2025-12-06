@@ -15,7 +15,7 @@
   <h2>📜 Certifications</h2>
   <ul>
     <li>
-- SQL and Relational Databases 101: [View Certificate](https://courses.cognitiveclass.ai/certificates/88558b0527ec41b3813d6c236d020736)
+- SQL and Relational Databases 101: [View Certificate (https://courses.cognitiveclass.ai/certificates/88558b0527ec41b3813d6c236d020736)]
     </li>
   </ul>
 
