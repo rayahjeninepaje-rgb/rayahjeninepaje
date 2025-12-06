@@ -21,7 +21,9 @@
   <h2>💡 Skillsets</h2>
   <ul>
     <li>SQL</li>
-    <!-- Add more skills here if you'd like -->
+    <li>HTML</li>
+    <li>CSS</li>
+    
   </ul>
 
 </body>
