@@ -2,7 +2,8 @@
 
 <body>
 
-  <img src="21-11554-107.jpg" alt="Rayah Jenine Paje" class="profile-pic">
+  <img src="21-11554-107.jpg" alt="Rayah Jenine Dela Cruz Paje" style="width: 100px; height: 100px; object-fit: cover; border-radius: 10px;">
+
 
   <h1>Rayah Jenine Dela Cruz Paje</h1>
 
