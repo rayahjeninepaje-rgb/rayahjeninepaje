@@ -1,5 +1,7 @@
 # rayahjeninepaje
 ![Rayah Jenine Paje](21-11554-107.jpg)
+<img src="21-11554-107.jpg" alt="Rayah Jenine Paje" width="100" height="100"/>
+
 About Me
 
 # Name 
