@@ -15,7 +15,10 @@
   <h2>📜 Certifications</h2>
   <ul>
     <li>
-- SQL and Relational Databases 101: [View Certificate (https://courses.cognitiveclass.ai/certificates/88558b0527ec41b3813d6c236d020736)]
+          - SQL and Relational Databases 101: [View Certificate https://courses.cognitiveclass.ai/certificates/88558b0527ec41b3813d6c236d020736]
+    </li>
+    <li>
+          - Oracle Cloud Infrastructure Learning Subscription - [https://catalog-education.oracle.com/pls/certview/sharebadge?id=FE4FFCCD2D1A3DE840AEC858653912DACFA38834FED893E4E077087A97210F00]
     </li>
   </ul>
 
