@@ -1,45 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Rayah Jenine Dela Cruz Paje</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 600px;
-      margin: 40px auto;
-      padding: 20px;
-      line-height: 1.6;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    img {
-      width: 200px;
-      height: 175px;
-      object-fit: cover;
-      border-radius: 10px;
-      display: block;
-      margin: 0 auto 20px;
-    }
-    h1, h2 {
-      text-align: center;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    li {
-      margin-bottom: 8px;
-    }
-    a {
-      color: #0077cc;
-      text-decoration: none;
-    }
-  </style>
-</head>
+# rayahjeninepaje
 <body>
 
-  <img src="21-11554-107.jpg" alt="Rayah Jenine Dela Cruz Paje">
+  <img src="21-11554-107.jpg" alt="Rayah Jenine Dela Cruz Paje" style="width: 200px; height: 175px; object-fit: cover; border-radius: 10px;">
 
   <h1>Rayah Jenine Dela Cruz Paje</h1>
 
