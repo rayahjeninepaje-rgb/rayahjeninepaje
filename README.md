@@ -22,6 +22,11 @@
         Oracle Cloud Infrastructure Learning Subscription
       </a>
     </li>
+     <li>
+      <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1DD2F76FBE5647B820C36670A62407AD445692416C2C86BDCEB5DCB27CFDBAE9" target="_blank">
+        Oracle Cloud Infrastructure Learning Subscription
+      </a>
+    </li>
   </ul>
 
   <h2>💡 Skillsets</h2>
