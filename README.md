@@ -19,12 +19,12 @@
     </li>
     <li>
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FE4FFCCD2D1A3DE840AEC858653912DACFA38834FED893E4E077087A97210F00" target="_blank">
-        Oracle Cloud Infrastructure Learning Subscription
+        Become An OCI Foundations Associate (2025) 
       </a>
     </li>
      <li>
       <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=1DD2F76FBE5647B820C36670A62407AD445692416C2C86BDCEB5DCB27CFDBAE9" target="_blank">
-        Oracle Cloud Infrastructure Learning Subscription
+        Become an Oracle Data Platform Foundations Associate
       </a>
     </li>
   </ul>
